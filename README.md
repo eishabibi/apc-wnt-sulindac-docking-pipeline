@@ -212,7 +212,6 @@ Structure prediction was performed manually using the **AlphaFold Server** web i
 
 ### AlphaFold2 Results
 
-![AlphaFold2 Structure Prediction](alphafold_screenshot.png)
 
 The predicted structure is colored by **pLDDT (predicted Local Distance Difference Test)**, a per-residue confidence metric:
 
